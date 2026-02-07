@@ -22,40 +22,12 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcDwR1Wpc2UuBmI9YrUrMqopYdt88D0jRUoAMjYrjXZA&s=10" height="290"
    <p></p>
    <a>feito:samuel</a>
-   
-  
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     
     
     
     
     
 </head>
-<body>
-  
-
-  
-  
 </body>
 </html>
 
